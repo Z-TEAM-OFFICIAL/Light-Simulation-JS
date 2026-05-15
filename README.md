@@ -1,5 +1,6 @@
 # Light-Simulation-JS
 
-Live demo: https://artemonigiri.github.io/Light-Simulation-JS/
+> \**Made in less than 2 lines of code* <br>
+> *\*=With only JS*
 
-Faster version for GPU: https://github.com/ArtemOnigiri/Light-Simulation-WebGL
+A **high quality** light simulator
